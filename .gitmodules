@@ -1,0 +1,3 @@
+[submodule "mautic-whitelabeler"]
+	path = mautic-whitelabeler
+	url = https://github.com/nickian/mautic-whitelabeler.git
